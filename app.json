@@ -15,6 +15,20 @@
       ]
     ],
     "name": "MindChat",
-    "slug": "MindChat"
+    "slug": "MindChat",
+    "extra": {
+      "router": {
+        "origin": "https://n"
+      },
+      "eas": {
+        "projectId": "8de46435-86ae-40ba-8379-d7ba3d9d2e18"
+      }
+    },
+    "android": {
+      "package": "com.kapoorricky.MindChat"
+    },
+    "ios": {
+      "bundleIdentifier": "com.kapoorricky.MindChat"
+    }
   }
 }
